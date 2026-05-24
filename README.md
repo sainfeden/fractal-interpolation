@@ -1,4 +1,4 @@
-# fractal-interpolation
+# Adaptive fractal interpolation for EO imagery upscaling
 
  (image)
  
