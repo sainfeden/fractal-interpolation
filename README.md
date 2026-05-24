@@ -46,8 +46,7 @@ Depending on the settins algorithm takes approximately 15 minutes for fractal in
 Therefore, a usage for an image of a similar size and complexity takes 10-20Wh. 
 Testing an algorithm took approximately 10 hours of pure computation, 500Wh.
 
-Usage of AI for coding assistance can be totalled to about 10Wh, with 0.3Wh for each query. It is difficult to estimate hidden cost of AI, the amount of energy that went into training and a single usage-impact on that. 
-The total calculated cost is 510Wh, ~ 2000 kJ, with each usage taking 40 kJ. Further optimisation can help decrease the cost.
+The total calculated cost is 500Wh, ~ 2000 kJ, with each usage taking 40 kJ. Further optimisation can help decrease the cost.
 
 ### References 
 
