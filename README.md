@@ -52,6 +52,10 @@ Testing an algorithm took approximately 10 hours of pure computation, 500Wh.
 
 The total calculated cost is 500Wh, ~ 2000 kJ, with each usage taking 40 kJ. Further optimisation can help decrease the cost.
 
+### Acknowledgments
+
+This project was done for UCL Earth Science Artificial Intelligence for Earth Observation (AI4EO) module under the supervision of Michel Tsamados.
+
 ### References 
 
 [^1]: Barnsley, M.F. Fractal functions and interpolation. Constr. Approx 2, 303–329 (1986). https://doi.org/10.1007/BF01893434
