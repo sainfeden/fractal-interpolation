@@ -1,6 +1,6 @@
 # Adaptive fractal interpolation for EO imagery upscaling
 
-![](/bg.jpg)
+![](/bg.jpg) 
  
 Interpolating is used to make a continuous line from datapoints, in EO it can be used for along-track interpolation or image scaling.
 The difference in image scales can often be a problem, as aligning two datasets requires them to be the same scale. Feature-matching algorithms are not always scale-invariant, as are many other algorithms. The task of increasing the scale is in principle the task of generating new points between original points, but in this case creating data does not create new information about the image detail, it is conserved. Depending on the specific use, the most common methods are linear and bicubic, in some cases edge-preserving algorithms which introduce artefacts. EO data often uses CNNs or Gaussian Processes (GP).
