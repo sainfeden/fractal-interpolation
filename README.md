@@ -49,8 +49,9 @@ Laptop energy usage is on average 50W
 Depending on the settins algorithm takes approximately 15 minutes for fractal interpolation of a test image, 15 more for GP. 
 Therefore, a usage for an image of a similar size and complexity takes 10-20Wh. 
 Testing an algorithm took approximately 10 hours of pure computation, 500Wh.
+AI was used for assistance in coding, and if counting an average of 0.3Wh per query, this adds up to 10Wh
 
-The total calculated cost is 500Wh, ~ 2000 kJ, with each usage taking 40 kJ. Further optimisation can help decrease the cost.
+The total calculated cost is 510Wh, ~ 2000 kJ, with each usage taking 40 kJ. Further optimisation can help decrease the cost.
 
 ### Acknowledgments
 
